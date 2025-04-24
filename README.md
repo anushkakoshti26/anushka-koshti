@@ -1,2 +1,3 @@
 # anushka-koshti
-this is my firstbgit repository
+this is my first git repository
+author- koshti anushka
